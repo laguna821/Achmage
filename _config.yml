@@ -2,7 +2,6 @@
 title               : laguna821
 description         : >-
                       laguna821의 데이터 사이언스 저장소
-                      코딩은 당신만 어려운 게 아닙니다.
                       
 baseurl             : "/laguna821"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : laguna821/Achmage     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -16,9 +15,9 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/projects.html
-  - pages/blog.html
-  - pages/about.md
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
   - documentation/partials/**                           # For Documentation Only
 
 
@@ -33,7 +32,7 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+permalink: pages/projects.html
 
 
 ### Collections ###
