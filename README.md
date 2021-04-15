@@ -1,7 +1,7 @@
 # Achmage's Portfolio
 laguna821의 데이터 사이언스 작업 저장소.
 
-# Project 1: George Floyd 관련 트윗 수집후 감성분석
+# [Project 1: George Floyd 관련 트윗 수집후 감성분석](https://github.com/laguna821/Achmage/tree/main/gfloyd)
 * Python (Spyder)로 Twint 패키지를 통해서 George Floyd 관련 트윗 수집
 * 검색어: George Floyd OR Minneapolis OR Minneapolis Riots OR Floyd OR Derek Chauvin OR #icantbreathe #georgefloyd OR #blcklivesmatter
 * 검색기간: 2020년 5월 25일 - 30일
