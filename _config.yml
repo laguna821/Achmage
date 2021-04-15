@@ -1,5 +1,10 @@
 title: 春川, Buffalo, 데이터 사이언스.
 description:  Making sense of the big data world from a social scientist view.
+author:
+  name              : Changhyun Ahn
+  image             : https://i.imgur.com/46TwuXj.jpg
+  email             : laguna821@gmail.com
+  facebook          : laguna82@nate.com
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
