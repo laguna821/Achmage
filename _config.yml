@@ -32,7 +32,7 @@ author:
 
 
 ### Posts ###
-permalink: /projects/
+permalink: /blog/:title
 
 
 ### Collections ###
