@@ -16,9 +16,9 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/tags.html
-  - pages/404.html
-  - pages/index.md
+  - pages/projects.html
+  - pages/blog.html
+  - pages/about.md
   - documentation/partials/**                           # For Documentation Only
 
 
@@ -29,7 +29,7 @@ author:
   email             : laguna821@gmail.com
   facebook          : laguna82@nate.com
   github            : laguna821
-# instagram         : laguna821
+  instagram         : laguna821
 
 
 ### Posts ###
